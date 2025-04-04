@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "Q+mz7Zo7MPg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Heatn\\OneDrive\\Desktop\\MCTC\\C# Programming\\CsharpHomework\\Module 11 Lab\\RubberDuckStore\\RubberDuckStore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Heatn\\.nuget\\packages\\microsoft.data.sqlite\\9.0.3\\microsoft.data.sqlite.9.0.3.nupkg.sha512",
+    "C:\\Users\\Heatn\\.nuget\\packages\\microsoft.data.sqlite.core\\9.0.3\\microsoft.data.sqlite.core.9.0.3.nupkg.sha512",
+    "C:\\Users\\Heatn\\.nuget\\packages\\sqlitepclraw.bundle_e_sqlite3\\2.1.10\\sqlitepclraw.bundle_e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\Heatn\\.nuget\\packages\\sqlitepclraw.core\\2.1.10\\sqlitepclraw.core.2.1.10.nupkg.sha512",
+    "C:\\Users\\Heatn\\.nuget\\packages\\sqlitepclraw.lib.e_sqlite3\\2.1.10\\sqlitepclraw.lib.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\Heatn\\.nuget\\packages\\sqlitepclraw.provider.e_sqlite3\\2.1.10\\sqlitepclraw.provider.e_sqlite3.2.1.10.nupkg.sha512",
+    "C:\\Users\\Heatn\\.nuget\\packages\\system.memory\\4.5.3\\system.memory.4.5.3.nupkg.sha512"
+  ],
+  "logs": []
+}
