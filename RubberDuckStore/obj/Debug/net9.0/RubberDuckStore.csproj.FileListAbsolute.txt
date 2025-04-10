@@ -121,4 +121,5 @@ C:\Users\Heatn\OneDrive\Desktop\MCTC\C# Programming\CsharpHomework\Module 11 Lab
 C:\Users\Heatn\OneDrive\Desktop\MCTC\C# Programming\CsharpHomework\Module 11 Lab\RubberDuckStore\obj\Debug\net9.0\RubberDuckStore.pdb
 C:\Users\Heatn\OneDrive\Desktop\MCTC\C# Programming\CsharpHomework\Module 11 Lab\RubberDuckStore\obj\Debug\net9.0\RubberDuckStore.genruntimeconfig.cache
 C:\Users\Heatn\OneDrive\Desktop\MCTC\C# Programming\CsharpHomework\Module 11 Lab\RubberDuckStore\obj\Debug\net9.0\ref\RubberDuckStore.dll
-C:\Users\Heatn\OneDrive\Desktop\MCTC\C# Programming\CsharpHomework\Module 11 Lab\RubberDuckStore\obj\Debug\net9.0\compressed\vrxbc37hlm-ot49kjffsg.gz
+C:\Users\Heatn\OneDrive\Desktop\MCTC\C# Programming\CsharpHomework\Module 11 Lab\RubberDuckStore\obj\Debug\net9.0\RubberDuckStore.sourcelink.json
+C:\Users\Heatn\OneDrive\Desktop\MCTC\C# Programming\CsharpHomework\Module 11 Lab\RubberDuckStore\obj\Debug\net9.0\compressed\vrxbc37hlm-roc9t6wvgt.gz

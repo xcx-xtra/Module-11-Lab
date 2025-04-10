@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "khmNzOZ0My9Bb1TBdVozzlKCS/GyctSGN4KUXUXCQdo=",
+  "Hash": "9z+4uDqWKpLcw48MzMk5oimca0g2JNwf1sLs8AwUu4o=",
   "Source": "RubberDuckStore",
   "BasePath": "_content/RubberDuckStore",
   "Mode": "Default",
@@ -1193,12 +1193,12 @@
       "OriginalItemSpec": "C:\\Users\\Heatn\\OneDrive\\Desktop\\MCTC\\C# Programming\\CsharpHomework\\Module 11 Lab\\RubberDuckStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Identity": "C:\\Users\\Heatn\\OneDrive\\Desktop\\MCTC\\C# Programming\\CsharpHomework\\Module 11 Lab\\RubberDuckStore\\obj\\Debug\\net9.0\\compressed\\vrxbc37hlm-ot49kjffsg.gz",
+      "Identity": "C:\\Users\\Heatn\\OneDrive\\Desktop\\MCTC\\C# Programming\\CsharpHomework\\Module 11 Lab\\RubberDuckStore\\obj\\Debug\\net9.0\\compressed\\vrxbc37hlm-roc9t6wvgt.gz",
       "SourceId": "RubberDuckStore",
       "SourceType": "Discovered",
       "ContentRoot": "C:\\Users\\Heatn\\OneDrive\\Desktop\\MCTC\\C# Programming\\CsharpHomework\\Module 11 Lab\\RubberDuckStore\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/RubberDuckStore",
-      "RelativePath": "css/site#[.{fingerprint=ot49kjffsg}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=roc9t6wvgt}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -1207,8 +1207,8 @@
       "RelatedAsset": "C:\\Users\\Heatn\\OneDrive\\Desktop\\MCTC\\C# Programming\\CsharpHomework\\Module 11 Lab\\RubberDuckStore\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ofcn16p14l",
-      "Integrity": "TBj3yC6WzGCb3pE9DPITaVoa3TYwHNw7mfMJUnZzeIk=",
+      "Fingerprint": "cu7stg8bad",
+      "Integrity": "TCyHRDwblqW29XIxuc8MtF28oF20ZOv4gwvoiXWMmE0=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "C:\\Users\\Heatn\\OneDrive\\Desktop\\MCTC\\C# Programming\\CsharpHomework\\Module 11 Lab\\RubberDuckStore\\wwwroot\\css\\site.css"
@@ -1417,8 +1417,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "ot49kjffsg",
-      "Integrity": "rPCUuCoiadYZqm8zNDjvd04ypJfQuZgXFWDloJMpsQQ=",
+      "Fingerprint": "roc9t6wvgt",
+      "Integrity": "e31NyLwwv4Fr+EMLryApC5N6abRn2T2TYW6l64Wn17I=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2771,12 +2771,12 @@
   "Endpoints": [
     {
       "Route": "css/site.css",
-      "AssetFile": "C:\\Users\\Heatn\\OneDrive\\Desktop\\MCTC\\C# Programming\\CsharpHomework\\Module 11 Lab\\RubberDuckStore\\obj\\Debug\\net9.0\\compressed\\vrxbc37hlm-ot49kjffsg.gz",
+      "AssetFile": "C:\\Users\\Heatn\\OneDrive\\Desktop\\MCTC\\C# Programming\\CsharpHomework\\Module 11 Lab\\RubberDuckStore\\obj\\Debug\\net9.0\\compressed\\vrxbc37hlm-roc9t6wvgt.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001879699248"
+          "Quality": "0.001855287570"
         }
       ],
       "ResponseHeaders": [
@@ -2786,15 +2786,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "531"
+          "Value": "538"
         },
         {
           "Name": "ETag",
-          "Value": "\"TBj3yC6WzGCb3pE9DPITaVoa3TYwHNw7mfMJUnZzeIk=\""
+          "Value": "\"TCyHRDwblqW29XIxuc8MtF28oF20ZOv4gwvoiXWMmE0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:31:40 GMT"
+          "Value": "Thu, 10 Apr 2025 02:58:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2814,13 +2814,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"rPCUuCoiadYZqm8zNDjvd04ypJfQuZgXFWDloJMpsQQ=\""
+          "Value": "W/\"e31NyLwwv4Fr+EMLryApC5N6abRn2T2TYW6l64Wn17I=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rPCUuCoiadYZqm8zNDjvd04ypJfQuZgXFWDloJMpsQQ="
+          "Value": "sha256-e31NyLwwv4Fr+EMLryApC5N6abRn2T2TYW6l64Wn17I="
         }
       ]
     },
@@ -2835,7 +2835,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1223"
+          "Value": "1769"
         },
         {
           "Name": "Content-Type",
@@ -2843,11 +2843,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rPCUuCoiadYZqm8zNDjvd04ypJfQuZgXFWDloJMpsQQ=\""
+          "Value": "\"e31NyLwwv4Fr+EMLryApC5N6abRn2T2TYW6l64Wn17I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:31:40 GMT"
+          "Value": "Thu, 10 Apr 2025 02:58:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2857,13 +2857,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-rPCUuCoiadYZqm8zNDjvd04ypJfQuZgXFWDloJMpsQQ="
+          "Value": "sha256-e31NyLwwv4Fr+EMLryApC5N6abRn2T2TYW6l64Wn17I="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "C:\\Users\\Heatn\\OneDrive\\Desktop\\MCTC\\C# Programming\\CsharpHomework\\Module 11 Lab\\RubberDuckStore\\obj\\Debug\\net9.0\\compressed\\vrxbc37hlm-ot49kjffsg.gz",
+      "AssetFile": "C:\\Users\\Heatn\\OneDrive\\Desktop\\MCTC\\C# Programming\\CsharpHomework\\Module 11 Lab\\RubberDuckStore\\obj\\Debug\\net9.0\\compressed\\vrxbc37hlm-roc9t6wvgt.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -2872,7 +2872,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "531"
+          "Value": "538"
         },
         {
           "Name": "Content-Type",
@@ -2880,11 +2880,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TBj3yC6WzGCb3pE9DPITaVoa3TYwHNw7mfMJUnZzeIk=\""
+          "Value": "\"TCyHRDwblqW29XIxuc8MtF28oF20ZOv4gwvoiXWMmE0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:31:40 GMT"
+          "Value": "Thu, 10 Apr 2025 02:58:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2902,18 +2902,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-TBj3yC6WzGCb3pE9DPITaVoa3TYwHNw7mfMJUnZzeIk="
+          "Value": "sha256-TCyHRDwblqW29XIxuc8MtF28oF20ZOv4gwvoiXWMmE0="
         }
       ]
     },
     {
-      "Route": "css/site.ot49kjffsg.css",
-      "AssetFile": "C:\\Users\\Heatn\\OneDrive\\Desktop\\MCTC\\C# Programming\\CsharpHomework\\Module 11 Lab\\RubberDuckStore\\obj\\Debug\\net9.0\\compressed\\vrxbc37hlm-ot49kjffsg.gz",
+      "Route": "css/site.roc9t6wvgt.css",
+      "AssetFile": "C:\\Users\\Heatn\\OneDrive\\Desktop\\MCTC\\C# Programming\\CsharpHomework\\Module 11 Lab\\RubberDuckStore\\obj\\Debug\\net9.0\\compressed\\vrxbc37hlm-roc9t6wvgt.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.001879699248"
+          "Quality": "0.001855287570"
         }
       ],
       "ResponseHeaders": [
@@ -2923,15 +2923,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "531"
+          "Value": "538"
         },
         {
           "Name": "ETag",
-          "Value": "\"TBj3yC6WzGCb3pE9DPITaVoa3TYwHNw7mfMJUnZzeIk=\""
+          "Value": "\"TCyHRDwblqW29XIxuc8MtF28oF20ZOv4gwvoiXWMmE0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:31:40 GMT"
+          "Value": "Thu, 10 Apr 2025 02:58:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -2951,13 +2951,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"rPCUuCoiadYZqm8zNDjvd04ypJfQuZgXFWDloJMpsQQ=\""
+          "Value": "W/\"e31NyLwwv4Fr+EMLryApC5N6abRn2T2TYW6l64Wn17I=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ot49kjffsg"
+          "Value": "roc9t6wvgt"
         },
         {
           "Name": "label",
@@ -2965,12 +2965,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rPCUuCoiadYZqm8zNDjvd04ypJfQuZgXFWDloJMpsQQ="
+          "Value": "sha256-e31NyLwwv4Fr+EMLryApC5N6abRn2T2TYW6l64Wn17I="
         }
       ]
     },
     {
-      "Route": "css/site.ot49kjffsg.css",
+      "Route": "css/site.roc9t6wvgt.css",
       "AssetFile": "C:\\Users\\Heatn\\OneDrive\\Desktop\\MCTC\\C# Programming\\CsharpHomework\\Module 11 Lab\\RubberDuckStore\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -2980,7 +2980,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "1223"
+          "Value": "1769"
         },
         {
           "Name": "Content-Type",
@@ -2988,11 +2988,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"rPCUuCoiadYZqm8zNDjvd04ypJfQuZgXFWDloJMpsQQ=\""
+          "Value": "\"e31NyLwwv4Fr+EMLryApC5N6abRn2T2TYW6l64Wn17I=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:31:40 GMT"
+          "Value": "Thu, 10 Apr 2025 02:58:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3002,7 +3002,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ot49kjffsg"
+          "Value": "roc9t6wvgt"
         },
         {
           "Name": "label",
@@ -3010,13 +3010,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-rPCUuCoiadYZqm8zNDjvd04ypJfQuZgXFWDloJMpsQQ="
+          "Value": "sha256-e31NyLwwv4Fr+EMLryApC5N6abRn2T2TYW6l64Wn17I="
         }
       ]
     },
     {
-      "Route": "css/site.ot49kjffsg.css.gz",
-      "AssetFile": "C:\\Users\\Heatn\\OneDrive\\Desktop\\MCTC\\C# Programming\\CsharpHomework\\Module 11 Lab\\RubberDuckStore\\obj\\Debug\\net9.0\\compressed\\vrxbc37hlm-ot49kjffsg.gz",
+      "Route": "css/site.roc9t6wvgt.css.gz",
+      "AssetFile": "C:\\Users\\Heatn\\OneDrive\\Desktop\\MCTC\\C# Programming\\CsharpHomework\\Module 11 Lab\\RubberDuckStore\\obj\\Debug\\net9.0\\compressed\\vrxbc37hlm-roc9t6wvgt.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -3025,7 +3025,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "531"
+          "Value": "538"
         },
         {
           "Name": "Content-Type",
@@ -3033,11 +3033,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"TBj3yC6WzGCb3pE9DPITaVoa3TYwHNw7mfMJUnZzeIk=\""
+          "Value": "\"TCyHRDwblqW29XIxuc8MtF28oF20ZOv4gwvoiXWMmE0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Fri, 04 Apr 2025 14:31:40 GMT"
+          "Value": "Thu, 10 Apr 2025 02:58:05 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -3055,7 +3055,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "ot49kjffsg"
+          "Value": "roc9t6wvgt"
         },
         {
           "Name": "label",
@@ -3063,7 +3063,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-TBj3yC6WzGCb3pE9DPITaVoa3TYwHNw7mfMJUnZzeIk="
+          "Value": "sha256-TCyHRDwblqW29XIxuc8MtF28oF20ZOv4gwvoiXWMmE0="
         }
       ]
     },
